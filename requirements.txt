@@ -39,5 +39,5 @@ rsa==4.0
 six==1.15.0
 toml==0.10.1
 tweepy==3.8.0
-urllib3==1.25.9
+urllib3==1.26.5
 wordcloud==1.7.0
